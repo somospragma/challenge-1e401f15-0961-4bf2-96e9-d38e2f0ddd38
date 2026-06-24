@@ -1,0 +1,9 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "main": "SharedComponent.tsx",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.1.6"
+  }
+}
